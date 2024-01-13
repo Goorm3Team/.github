@@ -10,8 +10,8 @@
 **[프로젝트 결과물.pdf](https://github.com/Goorm3Team/.github/files/10329897/default.pdf)**
 
 ## :link: Link
-백엔드 - [groom-bank-backend](https://github.com/Goorm3Team/groom-bank-backend)
+백엔드 - [goorm-bank-backend](https://github.com/Goorm3Team/goorm-bank-backend)
 
-프론트엔드 - [GroomBank-FrontEnd](https://github.com/Goorm3Team/GroomBank-FrontEnd)
+프론트엔드 - [GoormBank-FrontEnd](https://github.com/Goorm3Team/GoormBank-FrontEnd)
 
 CI/CD - [GoormBank-cicd](https://github.com/Goorm3Team/GoormBank-cicd)
